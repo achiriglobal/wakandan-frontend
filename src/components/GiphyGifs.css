@@ -1,0 +1,33 @@
+.borders {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    pointer-events: none; /* Ensure the GIFs do not block interactions with the content */
+}
+
+.border {
+    width: 150px; /* Adjust width as necessary */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 60px; /* Adjust to start from below the header */
+}
+
+.border.left {
+    left: 0;
+}
+
+.border.right {
+    right: 0;
+}
+
+.border img {
+    width: 100%; /* Adjust the size as needed */
+    height: auto;
+    margin-bottom: 10px;
+    pointer-events: auto; /* Ensure the GIFs are interactive */
+    opacity: 0.5; /* Ensure they don't overshadow the content */
+}

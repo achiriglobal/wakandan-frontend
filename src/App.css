@@ -1,0 +1,68 @@
+body {
+    background-image: url('C:\Users\achir\wakandan_app\wakandan-frontend\public\BPtribal.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #000; /* Black text */
+    font-family: 'Ubuntu', sans-serif; /* Custom font */
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.App {
+    text-align: center;
+    flex-grow: 1;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    padding: 0;
+    background-color: #000;
+}
+
+nav ul li {
+    padding: 1em;
+}
+
+nav ul li a {
+    color: #ffd700;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+.content {
+    padding: 2em;
+    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent background */
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 1em;
+    flex-grow: 1;
+}
+
+.borders {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.border {
+    width: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 10px;
+}
+
+.border img {
+    width: 100%;
+    margin-bottom: 10px;
+}
+

@@ -1,0 +1,31 @@
+.events {
+    padding: 20px;
+}
+
+.events h1 {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.events ul {
+    list-style: none;
+    padding: 0;
+}
+
+.events li {
+    background: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.events li h2 {
+    margin: 0;
+    color: #444;
+}
+
+.events li p {
+    margin: 5px 0;
+    color: #666;
+}
