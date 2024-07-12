@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/wakandan-frontend/static/css/main.c136e47a.css",
-    "main.js": "/wakandan-frontend/static/js/main.94dca9cd.js",
-    "static/js/488.1bd16e1e.chunk.js": "/wakandan-frontend/static/js/488.1bd16e1e.chunk.js",
-    "static/media/BPtribal.png": "/wakandan-frontend/static/media/BPtribal.6ac11c13e1ad101f49cb.png",
+    "main.css": "/wakandan-frontend/static/css/main.ae390da7.chunk.css",
+    "main.js": "/wakandan-frontend/static/js/main.d005e619.chunk.js",
+    "main.js.map": "/wakandan-frontend/static/js/main.d005e619.chunk.js.map",
+    "runtime-main.js": "/wakandan-frontend/static/js/runtime-main.cb3c231a.js",
+    "runtime-main.js.map": "/wakandan-frontend/static/js/runtime-main.cb3c231a.js.map",
+    "static/js/2.78be995f.chunk.js": "/wakandan-frontend/static/js/2.78be995f.chunk.js",
+    "static/js/2.78be995f.chunk.js.map": "/wakandan-frontend/static/js/2.78be995f.chunk.js.map",
+    "static/js/3.b8007aca.chunk.js": "/wakandan-frontend/static/js/3.b8007aca.chunk.js",
+    "static/js/3.b8007aca.chunk.js.map": "/wakandan-frontend/static/js/3.b8007aca.chunk.js.map",
     "index.html": "/wakandan-frontend/index.html",
-    "main.c136e47a.css.map": "/wakandan-frontend/static/css/main.c136e47a.css.map",
-    "main.94dca9cd.js.map": "/wakandan-frontend/static/js/main.94dca9cd.js.map",
-    "488.1bd16e1e.chunk.js.map": "/wakandan-frontend/static/js/488.1bd16e1e.chunk.js.map"
+    "static/css/main.ae390da7.chunk.css.map": "/wakandan-frontend/static/css/main.ae390da7.chunk.css.map",
+    "static/js/2.78be995f.chunk.js.LICENSE.txt": "/wakandan-frontend/static/js/2.78be995f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/wakandan-frontend/static/media/BPtribal.6ac11c13.png"
   },
   "entrypoints": [
-    "static/css/main.c136e47a.css",
-    "static/js/main.94dca9cd.js"
+    "static/js/runtime-main.cb3c231a.js",
+    "static/js/2.78be995f.chunk.js",
+    "static/css/main.ae390da7.chunk.css",
+    "static/js/main.d005e619.chunk.js"
   ]
 }
