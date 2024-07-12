@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/wakandan-frontend/static/css/main.c136e47a.css",
+    "main.js": "/wakandan-frontend/static/js/main.94dca9cd.js",
+    "static/js/488.1bd16e1e.chunk.js": "/wakandan-frontend/static/js/488.1bd16e1e.chunk.js",
+    "static/media/BPtribal.png": "/wakandan-frontend/static/media/BPtribal.6ac11c13e1ad101f49cb.png",
+    "index.html": "/wakandan-frontend/index.html",
+    "main.c136e47a.css.map": "/wakandan-frontend/static/css/main.c136e47a.css.map",
+    "main.94dca9cd.js.map": "/wakandan-frontend/static/js/main.94dca9cd.js.map",
+    "488.1bd16e1e.chunk.js.map": "/wakandan-frontend/static/js/488.1bd16e1e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c136e47a.css",
+    "static/js/main.94dca9cd.js"
+  ]
+}
